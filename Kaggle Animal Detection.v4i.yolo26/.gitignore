@@ -7,7 +7,7 @@ venv/
 env/
 
 # YOLO training outputs
-# runs/
+  runs/
 
 # Dataset folders
 train/
@@ -15,7 +15,7 @@ valid/
 test/
 
 # Model weights
-# *.pt
+*.pt
 *.pth
 *.onnx
 
